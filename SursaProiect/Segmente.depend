@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1610630433 source:c:\users\denis anicai\desktop\test\main.cpp
+	<algorithm>
+	<iostream>
+	<cstring>
+	<winbgim.h>
+	<stdlib.h>
+	<graphics.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	<fstream>
+
+1610630433 source:c:\users\denis anicai\desktop\1b3_anicaidenisgeorgeavarvareibiancaflorina_segmente\sursaproiect\main.cpp
+	<algorithm>
+	<iostream>
+	<cstring>
+	<winbgim.h>
+	<stdlib.h>
+	<graphics.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	<fstream>
+
